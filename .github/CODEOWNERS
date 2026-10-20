@@ -1,0 +1,7 @@
+# Changes to these paths need the owner's review (DESIGN §19.2).
+/scripts/ @RenderErr
+/engine.lock @RenderErr
+/keys/ @RenderErr
+/catalog/hosts/ @RenderErr
+/tools/watchdog/ @RenderErr
+/.github/ @RenderErr
