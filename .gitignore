@@ -1,0 +1,13 @@
+# build output
+bin/
+obj/
+out/
+dist/
+*.log
+# never commit keys or tokens
+*.pem
+*.key
+.env
+.env.*
+# raw fixture captures stay on the maintainer's private share
+fixtures-raw/
